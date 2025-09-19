@@ -1,4 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=200&section=header&text=Amir%20Mohammad%20%7C%20Front-End%20Learner&fontSize=30&fontColor=ffffff)
+
 # 👋 Hey, I'm Amir Mohammad  
 
 🌱 I'm a beginner **Front-End Developer** starting my journey into web development.  
@@ -25,6 +26,11 @@ This profile will grow as I gain more experience 🚀
 
 ---
 
+## 📊 GitHub Stats
+![Amir's GitHub stats](https://github-readme-stats.vercel.app/api?username=amirmohammad017&show_icons=true&theme=tokyonight)
+
+---
+
 ## 📌 Featured Projects
 🚧 Work in progress — I’ll add more as I upload them!  
 
@@ -33,8 +39,10 @@ This profile will grow as I gain more experience 🚀
 ## 📫 Connect with Me
 [![Website](https://img.shields.io/badge/-Website-000000?style=flat&logo=google-chrome&logoColor=white)](http://amirmohammad-dev.ir)  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com)  
-📧 Email: *your.email@example.com*  
+📧 Email: *amirm.1774@gmail.com*  
 
 ---
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=amirmohammad017)
 
 ✨ Thanks for visiting — come back later to see how my journey is going!
