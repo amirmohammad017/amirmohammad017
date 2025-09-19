@@ -1,3 +1,4 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=200&section=header&text=Amir%20Mohammad%20%7C%20Front-End%20Learner&fontSize=30&fontColor=ffffff)
 # 👋 Hey, I'm Amir Mohammad  
 
 🌱 I'm a beginner **Front-End Developer** starting my journey into web development.  
