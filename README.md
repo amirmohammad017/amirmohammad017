@@ -26,11 +26,6 @@ This profile will grow as I gain more experience 🚀
 
 ---
 
-## 📊 GitHub Stats
-![Amir's GitHub stats](https://github-readme-stats.vercel.app/api?username=amirmohammad017&show_icons=true&theme=tokyonight)
-
----
-
 ## 📌 Featured Projects
 🚧 Work in progress — I’ll add more as I upload them!  
 
