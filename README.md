@@ -27,12 +27,17 @@ This profile will grow as I gain more experience 🚀
 ---
 
 ## 📌 Featured Projects
-🚧 Work in progress — I’ll add more as I upload them!  
+- 🌐 [Portfolio Website](https://amirmohammad017.github.io/portfolio/)  
+
+---
+
+## 📊 GitHub Stats
+![Amir's GitHub stats](https://github-readme-stats.vercel.app/api?username=amirmohammad017&show_icons=true&theme=tokyonight)
 
 ---
 
 ## 📫 Connect with Me
-[![Website](https://img.shields.io/badge/-Website-000000?style=flat&logo=google-chrome&logoColor=white)](http://amirmohammad-dev.ir)  
+[![Website](https://img.shields.io/badge/-Website-000000?style=flat&logo=google-chrome&logoColor=white)](https://amirmohammad-dev.ir)  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com)  
 📧 Email: *amirm.1774@gmail.com*  
 
