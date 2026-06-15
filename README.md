@@ -27,7 +27,7 @@ This profile will grow as I gain more experience 🚀
 ---
 
 ## 📌 Featured Projects
-- 🌐 [Portfolio Website](https://amirmohammad017.github.io/portfolio/)  
+- 🌐 [Portfolio Website]([https://amirmohammad017.github.io/portfolio/](https://portfolio-dev-front-eight.vercel.app/))  
 
 ---
 
@@ -37,8 +37,7 @@ This profile will grow as I gain more experience 🚀
 ---
 
 ## 📫 Connect with Me
-[![Website](https://img.shields.io/badge/-Website-000000?style=flat&logo=google-chrome&logoColor=white)](https://amirmohammad-dev.ir)  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com)  
+[![Website](https://img.shields.io/badge/-Website-000000?style=flat&logo=google-chrome&logoColor=white)]([https://amirmohammad-dev.ir](https://portfolio-dev-front-eight.vercel.app/))  
 📧 Email: *amirm.1774@gmail.com*  
 
 ---
